@@ -41,7 +41,7 @@
 
 .progressbar > .progressbar-line{
     height: 10px;
-    /* width: 30px; */
+    width: 0px;
     background: black;
 }
 
